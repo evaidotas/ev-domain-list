@@ -1,0 +1,14 @@
+# Ignore composer dependencies
+vendor/
+composer.lock
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore PHPStorm project files
+/.idea
+
+# Ignore translation source files
+*.mo
+*.po
